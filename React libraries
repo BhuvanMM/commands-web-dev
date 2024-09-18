@@ -1,0 +1,11 @@
+1.React icons 
+  npm i lucide-react
+2.Number and date formatting
+  npm i numeral date-fns
+3.For charts
+  npm i recharts
+4.Drag and drop task management feature 
+  npm i react-dnd react-dnd-html5-backend
+5.backend connection
+  npm i axios
+6.npm i gantt-task-react
