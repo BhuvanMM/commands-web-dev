@@ -1,1 +1,10 @@
-npm create vite@latest -- --template react
+1.//create new app
+  npm create vite@latest -- --template react
+
+2.//Run the app
+  npm run dev
+
+3.//Basic cleanup
+  1.Delete App.css file
+  2.Clear index.css file
+  3.clear App.jsx file and type rfce to emmit the template and then type the part of the webpage you want to display 
