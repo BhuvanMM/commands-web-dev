@@ -1,0 +1,21 @@
+1.creating a new file--->
+  npm init -y
+
+2.git setup--->
+  git init
+  git add .
+  git commit -am 'message'
+
+3.husky setup
+  npm i husky lint-staged -D
+  npx husky init 
+
+4.install typescript
+  npm i typescript -D
+  npx tsc --init
+  npm i -D @types/node
+  npm i ts-node -D 
+
+5.install nodemon
+  npm i nodemon -D
+
